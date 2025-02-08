@@ -1,4 +1,4 @@
-# 🚀 Personal Repository - Indro  
+# 🚀 Personal Repository - Indrajit
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo)
 ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo)
